@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    padding: 8px;
+    min-height: 100vh;
+}
+
+.carousel-inner {
+    background-color: #FFD83B !important;
+}
+
+.nav-item a {
+    color: black;
+}
+
+.nav-item a:hover {
+    color: #EE0606 !important;
+}
+
+menu a:hover {
+    background-color: #FFD83B !important;
+}
+
+.navbar2 {
+    background-color: #FFB2E6 !important;
+}
+
+.navbar2 button {
+    background-color: #FFB2E6 !important;
+}
+
+.navbar2 a {
+    color: black;
+}
+
+.navbar2 a:hover {
+    color: #EE0606;
+}
+
+.footer {
+    background-color: #FFB2E6 !important;
+}
+.form{
+    background-color: #FFB2E6;
+}
+.faq{
+    background-color: #FFB2E6;
+}
+.modal-footer .btn{
+    background-color: #FFB2E6;
+}
+@media(max-width:600px){
+    .contact{
+        min-width:30%;
+        min-height:150px;
+    }
+}

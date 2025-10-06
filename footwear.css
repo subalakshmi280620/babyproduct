@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 8px;
+    min-height: 100vh;
+}
+
+.carousel-inner {
+    background-color: #FFD83B !important;
+}
+
+.nav-item a {
+    color: black;
+}
+
+.nav-item a:hover {
+    color: #EE0606 !important;
+}
+
+.menu a:hover {
+    background-color: #FFD83B !important;
+}
+
+.navbar2 {
+    background-color: #FFB2E6 !important;
+}
+
+.navbar2 button {
+    background-color: #FFB2E6 !important;
+}
+
+.navbar2 a {
+    color: black;
+}
+
+.navbar2 a:hover {
+    color: #EE0606;
+}
+
+.footer {
+    background-color: #FFB2E6 !important;
+}
+span{
+    background-color: #FFB2E6;
+}
